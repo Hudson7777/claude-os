@@ -1,6 +1,6 @@
 # Skills
 
-8 production skills across three categories. Install what fits your workflow.
+7 production skills across three categories. Install what fits your workflow.
 
 | Skill | What it does | Level | Demo |
 |-------|-------------|-------|------|

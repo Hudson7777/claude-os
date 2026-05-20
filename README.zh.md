@@ -6,8 +6,8 @@
 
 Claude Code 是一个终端工具。我把它当作操作系统来用。
 
-**内核** → 一份 400 行的 [`CLAUDE.md`](./CLAUDE.md)，定义了 Claude 如何思考和行动  
-**应用** → [8 个生产级 Skill](./skills/)，覆盖投资研究、信息聚合、开发工作流  
+**内核** → 一份 [`CLAUDE.md`](./CLAUDE.md)，定义了 Claude 如何思考和行动  
+**应用** → [7 个生产级 Skill](./skills/)，覆盖投资研究、信息聚合、开发工作流  
 **哲学** → 每个 Skill 都有设计文档，解释"为什么这样做"，而不只是"怎么用"
 
 ![stars](https://img.shields.io/github/stars/Hudson7777/claude-os?style=flat-square)
@@ -48,7 +48,7 @@ cp -r skills/SKILL_NAME ~/.claude/skills/
 
 ## 内核：CLAUDE.md
 
-大多数人把 Claude Code 当聊天机器人用。我花了 6 个月写了一份 400 行的指令文件。
+大多数人把 Claude Code 当聊天机器人用。我花了 6 个月持续打磨一份指令文件。
 
 它定义了：回复风格、何时停下来问、代码 Review 标准、Skill 调用规则、输出格式，以及一份持续更新的纠错日志。
 

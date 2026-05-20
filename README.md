@@ -6,8 +6,8 @@
 
 Claude Code is a terminal tool. I treat it as an operating system.
 
-**Kernel** → a 400-line [`CLAUDE.md`](./CLAUDE.md) that shapes how Claude thinks  
-**Apps** → [8 production skills](./skills/) for research, intelligence, and dev  
+**Kernel** → a [`CLAUDE.md`](./CLAUDE.md) that shapes how Claude thinks  
+**Apps** → [7 production skills](./skills/) for research, intelligence, and dev  
 **Philosophy** → every skill has a design doc explaining *why*, not just *what*
 
 ![stars](https://img.shields.io/github/stars/Hudson7777/claude-os?style=flat-square)
@@ -49,7 +49,7 @@ cp -r skills/SKILL_NAME ~/.claude/skills/
 ## The Kernel
 
 Most people use Claude Code like a chatbot.  
-I spent 6 months writing a 400-line instruction file.
+I spent 6 months writing and refining an instruction file.
 
 It defines: response style, when to stop and ask, code review criteria,
 skill invocation rules, output format, and a running correction log.

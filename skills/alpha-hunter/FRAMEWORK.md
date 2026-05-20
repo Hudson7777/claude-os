@@ -97,3 +97,17 @@ The `alpha-hunter` skill operationalizes this framework. Configure your informat
 - Deep dive a theme: *"deep dive on 800V DC power architecture"*
 - Log a prediction: *"记录预测：TSMC CoWoS 产能 2025Q2 开始去瓶颈"*
 - Run periodic review: *"monthly review of tracked themes"*
+
+---
+
+## Further Reading
+
+The frameworks referenced in this essay are fully documented in the `frameworks/` directory:
+
+- [5-stage-lifecycle.md](./frameworks/5-stage-lifecycle.md) — full stage definitions with awareness %, signal checklists, and position-sizing guidance
+- [cognitive-discipline.md](./frameworks/cognitive-discipline.md) — the complete anti-bias toolkit: confirmation bias, narrative substitution, reflexivity
+- [signal-sources.md](./frameworks/signal-sources.md) — tiered signal source catalog (Tier 1–4) with reliability assessments
+- [variant-perception.md](./frameworks/variant-perception.md) — how to develop differentiated views that diverge from consensus
+- [physical-constraints.md](./frameworks/physical-constraints.md) — why physical/engineering limits are the highest-conviction signal source
+- [bottleneck-migration.md](./frameworks/bottleneck-migration.md) — how to track Alpha as a bottleneck resolves and migrates to the next constraint
+- [reflexivity.md](./frameworks/reflexivity.md) — when market attention itself changes the investment thesis

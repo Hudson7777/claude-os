@@ -71,7 +71,7 @@ python3 scripts/run_task.py \
 
 `run_task.py` 会自动：
 1. 将任务说明写入工作区的 `TASK.md`
-2. 以 agent 模式启动 `mc --code`（无 `--print`），模型真实执行工具调用
+2. 以 agent 模式启动 `${CLAUDE_CLI:-claude} --code`（无 `--print`），模型真实执行工具调用
 3. 通过三信号联合判断任务完成：
    - **信号1（最高优先级）**：进程自然退出 → 立即记录完成
    - **信号2+3（联合）**：工作区文件稳定窗口已满（T1/T4=60s，T2/T3/T5=90s，T6=120s）**且** 进程 CPU 连续3次采样 < 5% → kill 进程，记录 `OK-idle`
