@@ -2,7 +2,7 @@
 
 > 我停止手动阅读财经新闻了。我的 Claude OS 替我做这件事——而且做得更好。
 
-![morning-brief 演示](assets/screenshots/morning-brief.png)
+<!-- screenshot: 运行一次"早报"生成 morning-brief.html 后，截图放在这里 -->
 
 Claude Code 是一个终端工具。我把它当作操作系统来用。
 
