@@ -6,7 +6,7 @@
 |-------|-------------|-------|------|
 | [alpha-hunter](./alpha-hunter/) | Technology investment theme analysis: 5-stage lifecycle, three-layer translation, signal capture | 📐 template | [framework essay](./alpha-hunter/FRAMEWORK.md) |
 | [super-search](./super-search/) | Unified search router across Serper, Firecrawl, Tavily, GitHub, and more | 🔧 configure | — |
-| [morning-brief](./morning-brief/) | Daily AI + markets digest, generates HTML report | 🔧 configure | — |
+| [morning-brief](./morning-brief/) | Daily AI + markets digest, generates HTML report | 🔧 configure | [screenshot](../assets/screenshots/morning-brief.png) |
 | [evening-brief](./evening-brief/) | Daily evening recap: news, deep dive, knowledge boost | 🔧 configure | — |
 | [model-coding-benchmark](./model-coding-benchmark/) | Blind LLM benchmark on 6 coding tasks with cross-evaluator scoring | 🔧 configure | [sample results](./model-coding-benchmark/README.md#sample-results) |
 | [market-anomaly-monitor](./market-anomaly-monitor/) | Detects price anomalies + searches for triggering events | 🔧 configure | — |

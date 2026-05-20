@@ -2,7 +2,7 @@
 
 > I stopped reading financial news. My Claude OS does it now — and it's better.
 
-<!-- screenshot: run "早报" once to generate morning-brief.html, then add screenshot here -->
+![morning-brief demo](assets/screenshots/morning-brief.png)
 
 Claude Code is a terminal tool. I treat it as an operating system.
 
